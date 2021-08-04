@@ -32,5 +32,7 @@ build/
 
 ### VS Code ###
 .vscode/
-
+./java.postman_environment.json
+./security-challenge.postman_collection.json
+/bin/
 logs
